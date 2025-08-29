@@ -1,0 +1,2 @@
+{"name":"Log","hostname":"Patek","pid":1502216,"level":50,"version":"6.0.6","msg":"Could not get webhook secret for ActivityPub FetchError: invalid json response body at http://localhost:2368/.ghost/activitypub/v1/site/ reason: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON","time":"2025-08-29T15:28:04.208Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":50,"version":"6.0.6","msg":"No webhook secret found - cannot initialise","time":"2025-08-29T15:28:04.208Z","v":0}

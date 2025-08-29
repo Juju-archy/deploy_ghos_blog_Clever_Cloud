@@ -1,0 +1,16 @@
+{
+    "name": "ghost-clever-cloud",
+    "version": "0.1.0",
+    "description": "",
+    "scripts": {
+        "start": "ghost run --dir ghost"
+    },
+    "engines": {
+        "node": "22"
+    },
+    "dependencies": {
+        "clever-tools": "^3.14.0",
+        "ghost-cli": "1.28.3",
+        "ghost-storage-adapter-s3": "2.8.0"
+    }
+}

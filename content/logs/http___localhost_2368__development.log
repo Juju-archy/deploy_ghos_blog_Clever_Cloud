@@ -1,0 +1,113 @@
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Ghost is running in development...","time":"2025-08-29T15:28:00.891Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Listening on: 127.0.0.1:2368","time":"2025-08-29T15:28:00.891Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Url configured as: http://localhost:2368/","time":"2025-08-29T15:28:00.892Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Ctrl+C to shut down","time":"2025-08-29T15:28:00.892Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Ghost server started in 0.282s","time":"2025-08-29T15:28:00.892Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":40,"version":"6.0.6","msg":"Database state requires initialisation.","time":"2025-08-29T15:28:00.977Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: newsletters","time":"2025-08-29T15:28:01.096Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: posts","time":"2025-08-29T15:28:01.106Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: posts_meta","time":"2025-08-29T15:28:01.117Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: users","time":"2025-08-29T15:28:01.121Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: posts_authors","time":"2025-08-29T15:28:01.127Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: roles","time":"2025-08-29T15:28:01.129Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: roles_users","time":"2025-08-29T15:28:01.134Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: permissions","time":"2025-08-29T15:28:01.136Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: permissions_users","time":"2025-08-29T15:28:01.140Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: permissions_roles","time":"2025-08-29T15:28:01.142Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: settings","time":"2025-08-29T15:28:01.144Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: tags","time":"2025-08-29T15:28:01.148Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: posts_tags","time":"2025-08-29T15:28:01.152Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: invites","time":"2025-08-29T15:28:01.156Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: brute","time":"2025-08-29T15:28:01.161Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: sessions","time":"2025-08-29T15:28:01.163Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: integrations","time":"2025-08-29T15:28:01.167Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: webhooks","time":"2025-08-29T15:28:01.171Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: api_keys","time":"2025-08-29T15:28:01.173Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: mobiledoc_revisions","time":"2025-08-29T15:28:01.177Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: post_revisions","time":"2025-08-29T15:28:01.181Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: members","time":"2025-08-29T15:28:01.185Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: products","time":"2025-08-29T15:28:01.196Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: offers","time":"2025-08-29T15:28:01.200Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: benefits","time":"2025-08-29T15:28:01.210Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: products_benefits","time":"2025-08-29T15:28:01.214Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: members_products","time":"2025-08-29T15:28:01.217Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: posts_products","time":"2025-08-29T15:28:01.218Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: members_created_events","time":"2025-08-29T15:28:01.220Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: members_cancel_events","time":"2025-08-29T15:28:01.224Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: members_payment_events","time":"2025-08-29T15:28:01.226Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: members_login_events","time":"2025-08-29T15:28:01.228Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: members_email_change_events","time":"2025-08-29T15:28:01.231Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: members_status_events","time":"2025-08-29T15:28:01.233Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: members_product_events","time":"2025-08-29T15:28:01.235Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: members_paid_subscription_events","time":"2025-08-29T15:28:01.237Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: labels","time":"2025-08-29T15:28:01.239Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: members_labels","time":"2025-08-29T15:28:01.245Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: members_stripe_customers","time":"2025-08-29T15:28:01.247Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: subscriptions","time":"2025-08-29T15:28:01.250Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: members_stripe_customers_subscriptions","time":"2025-08-29T15:28:01.252Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: members_subscription_created_events","time":"2025-08-29T15:28:01.258Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: offer_redemptions","time":"2025-08-29T15:28:01.261Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: members_subscribe_events","time":"2025-08-29T15:28:01.263Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: donation_payment_events","time":"2025-08-29T15:28:01.267Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: stripe_products","time":"2025-08-29T15:28:01.269Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: stripe_prices","time":"2025-08-29T15:28:01.273Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: actions","time":"2025-08-29T15:28:01.277Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: emails","time":"2025-08-29T15:28:01.279Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: email_batches","time":"2025-08-29T15:28:01.285Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: email_recipients","time":"2025-08-29T15:28:01.287Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: email_recipient_failures","time":"2025-08-29T15:28:01.299Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: tokens","time":"2025-08-29T15:28:01.302Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: snippets","time":"2025-08-29T15:28:01.307Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: custom_theme_settings","time":"2025-08-29T15:28:01.312Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: members_newsletters","time":"2025-08-29T15:28:01.314Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: comments","time":"2025-08-29T15:28:01.318Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: comment_likes","time":"2025-08-29T15:28:01.320Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: comment_reports","time":"2025-08-29T15:28:01.322Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: jobs","time":"2025-08-29T15:28:01.324Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: redirects","time":"2025-08-29T15:28:01.328Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: members_click_events","time":"2025-08-29T15:28:01.332Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: members_feedback","time":"2025-08-29T15:28:01.334Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: suppressions","time":"2025-08-29T15:28:01.336Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: email_spam_complaint_events","time":"2025-08-29T15:28:01.340Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: mentions","time":"2025-08-29T15:28:01.344Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: milestones","time":"2025-08-29T15:28:01.346Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: collections","time":"2025-08-29T15:28:01.348Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: collections_posts","time":"2025-08-29T15:28:01.352Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: recommendations","time":"2025-08-29T15:28:01.354Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: recommendation_click_events","time":"2025-08-29T15:28:01.356Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Creating table: recommendation_subscribe_events","time":"2025-08-29T15:28:01.358Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Model: Collection","time":"2025-08-29T15:28:01.637Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Model: Product","time":"2025-08-29T15:28:01.641Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Model: Newsletter","time":"2025-08-29T15:28:01.647Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Model: Tag","time":"2025-08-29T15:28:01.650Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Model: Permission","time":"2025-08-29T15:28:01.653Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Model: Post","time":"2025-08-29T15:28:01.824Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Model: Integration","time":"2025-08-29T15:28:02.064Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Relation: Role to Permission","time":"2025-08-29T15:28:02.107Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Relation: Post to Tag","time":"2025-08-29T15:28:02.290Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Database is in a ready state.","time":"2025-08-29T15:28:02.375Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Ghost database ready in 1.766s","time":"2025-08-29T15:28:02.376Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Configured site_uuid was not found or invalid. Setting site_uuid to a new value: 3e4516d4-9d82-4e1b-9c20-10d97a794661","time":"2025-08-29T15:28:02.672Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Invalidating assets for regeneration","time":"2025-08-29T15:28:03.001Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Adding offloaded job to the inline job queue","time":"2025-08-29T15:28:03.268Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Scheduling job mentions-email-report at 26 2 * * * *. Next run on: Fri Aug 29 2025 18:02:26 GMT+0200 (heure d’été d’Europe centrale)","time":"2025-08-29T15:28:03.272Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":40,"version":"6.0.6","msg":"Explore URL not set","time":"2025-08-29T15:28:03.401Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Adding one-off job to inlineQueue with current length = 0 called 'members-migrations'","time":"2025-08-29T15:28:03.442Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Stripe not configured - skipping migrations","time":"2025-08-29T15:28:03.450Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"URL Service ready in 928ms","time":"2025-08-29T15:28:03.776Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Adding offloaded job to the inline job queue","time":"2025-08-29T15:28:03.924Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Scheduling job clean-expired-comped at 27 29 1 * * *. Next run on: Sat Aug 30 2025 01:29:27 GMT+0200 (heure d’été d’Europe centrale)","time":"2025-08-29T15:28:03.926Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Adding offloaded job to the inline job queue","time":"2025-08-29T15:28:03.930Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Scheduling job clean-tokens at 34 38 8 * * *. Next run on: Sat Aug 30 2025 08:38:34 GMT+0200 (heure d’été d’Europe centrale)","time":"2025-08-29T15:28:03.932Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Ghost booted in 3.326s","time":"2025-08-29T15:28:03.936Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Adding offloaded job to the inline job queue","time":"2025-08-29T15:28:03.941Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Scheduling job update-check at 32 46 14 * * *. Next run on: Sat Aug 30 2025 14:46:32 GMT+0200 (heure d’été d’Europe centrale)","time":"2025-08-29T15:28:03.942Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"Running milestone emails job on Fri Aug 29 2025 17:28:08 GMT+0200 (heure d’été d’Europe centrale)","time":"2025-08-29T15:28:03.947Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","req":{"meta":{"requestId":"35ccb07f-2fbf-4754-abee-f5dce37138b6","userId":null},"url":"/.ghost/activitypub/v1/site","method":"GET","originalUrl":"/.ghost/activitypub/v1/site","params":{},"headers":{"authorization":"**REDACTED**","accept":"*/*","user-agent":"node-fetch/1.0 (+https://github.com/bitinn/node-fetch)","accept-encoding":"gzip,deflate","host":"localhost:2368","connection":"keep-alive"},"query":{}},"res":{"_headers":{"x-powered-by":"Express","cache-control":"public, max-age=31536000","location":"/.ghost/activitypub/v1/site/"},"statusCode":301,"responseTime":"180ms"},"msg":"","time":"2025-08-29T15:28:04.135Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","req":{"meta":{"requestId":"dd085184-dba7-4ce7-bbd3-1cf39f1f79f6","userId":null},"url":"/.ghost/activitypub/v1/site/","method":"GET","originalUrl":"/.ghost/activitypub/v1/site/","params":{},"headers":{"authorization":"**REDACTED**","accept":"*/*","user-agent":"node-fetch/1.0 (+https://github.com/bitinn/node-fetch)","accept-encoding":"gzip,deflate","host":"localhost:2368","connection":"keep-alive"},"query":{}},"res":{"_headers":{"x-powered-by":"Express","cache-control":"no-cache, private, no-store, must-revalidate, max-stale=0, post-check=0, pre-check=0","content-type":"text/html; charset=utf-8","etag":"W/\"481-L9MaHnt0eunJ2pBjwKXL7E7B8wI\"","vary":"Accept-Encoding","content-encoding":"gzip"},"statusCode":404,"responseTime":"69ms"},"msg":"","time":"2025-08-29T15:28:04.207Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":50,"version":"6.0.6","msg":"Could not get webhook secret for ActivityPub FetchError: invalid json response body at http://localhost:2368/.ghost/activitypub/v1/site/ reason: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON","time":"2025-08-29T15:28:04.208Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":50,"version":"6.0.6","msg":"No webhook secret found - cannot initialise","time":"2025-08-29T15:28:04.208Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":30,"version":"6.0.6","msg":"[Recommendations] Updating recommendations metadata","time":"2025-08-29T15:33:36.746Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":40,"version":"6.0.6","msg":"Ghost is shutting down","time":"2025-08-29T15:39:42.611Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":40,"version":"6.0.6","msg":"Ghost has shut down","time":"2025-08-29T15:39:42.613Z","v":0}
+{"name":"Log","hostname":"Patek","pid":1502216,"level":40,"version":"6.0.6","msg":"Ghost was running for 12 minutes","time":"2025-08-29T15:39:42.613Z","v":0}
