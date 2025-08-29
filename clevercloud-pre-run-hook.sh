@@ -4,6 +4,7 @@ set -x
 
 cat <<EOF > ghost/config.production.json
 {
+	"url": "$url",
     "server": {
 	"port": 8080,
 	"host": "0.0.0.0"
@@ -15,7 +16,6 @@ cat <<EOF > ghost/config.production.json
 	    "secretAccessKey": "$CELLAR_ADDON_KEY_SECRET",
 	    "region": "auto",
 	    "bucket": "$BUCKET_NAME",
-	    "assetHost": "$S3_ASSET_HOST",
 	    "endpoint": "$CELLAR_ADDON_HOST"
 	}
     },
