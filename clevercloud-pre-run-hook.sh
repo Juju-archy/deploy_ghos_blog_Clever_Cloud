@@ -4,7 +4,7 @@ set -x
 
 cat <<EOF > ghost/config.production.json
 {
-    "url": "https://app-1810b6d4-876d-4fcf-9211-15b153ff902b.cleverapps.io/",
+    "url": "$APP_URL",
     "server": {
 	"port": 8080,
 	"host": "0.0.0.0"
