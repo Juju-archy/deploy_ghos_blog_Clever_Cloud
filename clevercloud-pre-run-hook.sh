@@ -39,7 +39,7 @@ cat <<EOF > ghost/config.production.json
 	"from": "$SMTP_FROM",
         "options": {
             "service": "Mailgun",
-            "host": "$SMTP_SERVER",
+            "host": "$SMTP_HOST",
             "port": $SMTP_PORT,
             "secureConnection": true,
             "auth": {

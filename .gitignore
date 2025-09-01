@@ -4,3 +4,4 @@ versions
 node_modules/
 env/
 ghost/
+.clever.json
