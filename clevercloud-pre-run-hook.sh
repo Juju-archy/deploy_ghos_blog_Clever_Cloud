@@ -17,7 +17,7 @@ cat <<EOF > ghost/config.production.json
 	    "region": "auto",
 	    "bucket": "$BUCKET_NAME",
 	    "endpoint": "$CELLAR_ADDON_HOST",
-	    "assetHost": "$S3_ASSET_HOST"
+	    "assetHost": "https://$BUCKET_NAME.$CELLAR_ADDON_HOST"
 	}
     },
     "database": {
