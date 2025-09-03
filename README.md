@@ -70,7 +70,6 @@ clever create --type node myblog
 clever addon create mysql-addon --plan s_sml myblogsql --link myblog
 clever addon create cellar-addon --plan s_sml myblogcellar --link myblog
 # Set environment variable
-clever env set CC_PRE_BUILD_HOOK "./clevercloud-pre-build-hook.sh"
 clever env set CC_PRE_RUN_HOOK "./clevercloud-pre-run-hook.sh"
 clever env set CC_POST_BUILD_HOOK "./clevercloud-post-build-hook.sh"
 clever env set NODE_ENV "production"
@@ -83,6 +82,7 @@ clever env set SMTP_PORT "587"
 clever env set SMTP_SECURE_CONNECTION "true"
 clever env set SMTP_USER "your-smtp-username"
 clever env set SMTP_PASSWORD "your-smtp-password"
+clever env set APP_URL "<your_front_app_url>"
 ```
 
 > 💡 **Note**: SMTP environment variables allow Ghost to connect to your email service automatically.  
@@ -142,7 +142,7 @@ s3cmd setpolicy ./policy.json s3://<bucket> -c ~/.s3cfg
 
 ```
 
-### 8. Deploy on Clever Cloud
+### 4. Deploy on Clever Cloud
 
 Initialize git, add files and push:
 ```sh
